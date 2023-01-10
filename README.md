@@ -1,3 +1,3 @@
-Web-developer (Laravel)
+Web-developer
 
 Hobby: flutter
